@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "spades"
+  site-url: "https://kanglcn.github.io/spades"
+  description: "description"
+  repo-branch: main
+  repo-url: "https://github.com/kanglcn/spades"
